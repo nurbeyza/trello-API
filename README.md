@@ -1,1 +1,1 @@
-# Selenium-API
+# https://developer.atlassian.com/cloud/trello/rest/ kullanılarak API testleri yapılmıştır.
